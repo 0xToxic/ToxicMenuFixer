@@ -302,11 +302,11 @@ pause
 goto menu
 
 :RegistryCleaner
-REM Code for Registry Cleaner
+echo fixed soon
 goto menu
 
 :SecurityScanner
-REM Code for Security Scanner
+echo fixed soon
 goto menu
 
 :Exit
